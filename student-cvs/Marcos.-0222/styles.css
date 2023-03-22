@@ -7,12 +7,6 @@ body {
       background-color: rgb(139, 164, 231);
       color: rgb(255, 255, 255);
     }
-    body img {
-      display: inline-block;
-      height: 500px;
-      vertical-align: top;
-      width: 350px;
-    }
     
     h2 {
       margin-top: 1em;
